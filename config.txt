@@ -1,5 +1,5 @@
 token=NTk3MjIzODY0Mzg4NTUwNjU2.XS8C3A.g4cco3poz_RmeW1AfoszHwrGAR0
 owner=441683368418082836 
 prefix=1
-game=GamersArea Server
+game=GamersArena Server
 stayinchannel=true
